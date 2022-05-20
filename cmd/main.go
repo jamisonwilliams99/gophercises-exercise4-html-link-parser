@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/jamisonwilliams99/gophercises-exercise4-htmlparser/link"
+	"github.com/jamisonwilliams99/gophercises-exercise4-html-link-parser/link"
 )
 
 func main() {

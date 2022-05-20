@@ -1,4 +1,4 @@
-module github.com/jamisonwilliams99/gophercises-exercise4-htmlparser
+module github.com/jamisonwilliams99/gophercises-exercise4-html-link-parser
 
 go 1.16
 
