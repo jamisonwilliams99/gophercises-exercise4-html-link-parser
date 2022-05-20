@@ -4,8 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"io/ioutil"
-	"jamisonwilliams99/gophercises-exercise4-htmlparser/link"
 	"strings"
+
+	"github.com/jamisonwilliams99/gophercises-exercise4-htmlparser/link"
 )
 
 func main() {
